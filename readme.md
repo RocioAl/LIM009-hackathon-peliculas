@@ -23,6 +23,7 @@ y modificado el mercado de las películas a nivel global.
  ![Pelis](https://media.giphy.com/media/NipFetnQOuKhW/giphy.gif)
 
 ## Resumen del proyecto
+### Advengers
 
 Durante estos días crearás el producto que tú quieras alrededor del mundo
 de las películas. Puede ser un sitio que hable de las mejores películas
@@ -60,7 +61,7 @@ sin embargo, si no quieren crearlo desde cero, pueden utilizar el que
 propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/view).
 * Deberán usar al menos un framework de css.
 
-## Reglas de las presentaciones 
+## Reglas de las presentaciones
 
 * Cada squad tendrá 5 minutos para presentar su demo y 5 minutos para recibir preguntas.
 
@@ -68,17 +69,17 @@ propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/v
 
 ## Horario
 
-|       |  Lunes            | Martes                       | Miércoles                     | 
-|------ | ------------------| ---------------------------- | ----------------------------- | 
+|       |  Lunes            | Martes                       | Miércoles                     |
+|------ | ------------------| ---------------------------- | ----------------------------- |
 | 8:00  | Kick off hackaton | Daily por squad              |   Hackeo                      |      
-| 9:00  | Sesión de planificación  | Hackeo                |   Detalles finales            | 
+| 9:00  | Sesión de planificación  | Hackeo                |   Detalles finales            |
 | 10:00 | Hackeo            | Compartir link de aplicación | Feria de demostraciones       |
 | 11:00 |                   | Presentación y Feedback      | Presentación de mejores squads|    
 | 12:00 |                   |                              |     Deliberación del jurado   |                                
 |>13:00 |                   |                              |                               |                                
 | 20:00 |                   |                              |                               |                       
 
-## Tips para la organización de trabajo entre UX y Front end 
+## Tips para la organización de trabajo entre UX y Front end
 
 * Las UX y FE entienden en conjunto el reto en el que van a trabajar, se organizan y arman sus primeros bocetos.
 * Con los primeros bocetos/ideas, las FE pasan a crear su ambiente de desarrollo y a crear componentes atómicos que luego les sea fácil personalizar con CSS y utilizar para crear interfaces más complejas. Además, las FE empiezan también a trabajar en la lógica de la aplicación. Mientras tanto, las UX crean una guía de estilos, los flujos de usuarios, hacen un prototipo más completo y lo testean.
@@ -90,7 +91,7 @@ propuso [Walmart](https://drive.google.com/file/d/0B6GBtl-gO6LwaVprQkFqTGI2a28/v
 
 ## ¿Qué es la Feria de demos?
 
-La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora. 
+La feria de demos se realizará el día de las presentaciones, consiste en la dinámica de “speed dating”, cada squad presentará su demo durante 3 minutos a un grupo de personas, entre ellos los jurados de la Hackathon. Luego de los 3 minutos sonará una chicharra y el grupo de personas rotará al siguiente squad, de esta forma deberán presentar durante una hora.
 
 * Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
-* Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
+* Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador.
