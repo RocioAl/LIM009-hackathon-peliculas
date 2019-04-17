@@ -29,3 +29,46 @@
             width: 20%;
             margin: 0 auto;
         }
+        .menu ul {
+  list-style: none;
+  display: flex;
+}
+.menu li {
+  flex-grow: 1;
+  text-align: center;
+}
+.menu li a {
+  text-decoration: none;
+  
+}
+
+.social-icon a {
+  color: #fff;
+
+}
+.social-icon p {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+}
+.facebook-bg{
+  background: #3B5998;
+}
+.twitter-bg{
+  background: #55ACEE;
+}
+.instagram-bg{
+
+
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+
+}
+footer{
+  background-color: #B83A3A;
+  color: #e8e8e8;
+  clear: both;
+}
